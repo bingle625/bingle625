@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a7d5eb&height=300&section=header&text=bingle&fontSize=90&fontColor=42555e&animation=fadeIn&fontAlign=70)
 <!--
 **bingle625/bingle625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
