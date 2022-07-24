@@ -38,6 +38,7 @@
 
 <h2 align="center">:pencil2: Studying</h2>
 <div align="center">
+<img src="https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=Node.js&logoColor=#68A063"/>
 <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 
