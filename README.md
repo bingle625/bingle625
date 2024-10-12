@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a7d5eb&height=300&section=header&text=bingle&fontSize=90&fontColor=42555e&animation=fadeIn&fontAlign=70)
 
-
+<h2 align="center">:wave: About Me</h2>
+<p align="center">
+  반갑습니다.<br>
+  누구나 읽기 쉬운 코드 짜기를 지향하는 웹 개발자입니다. <br>
+  현재는 Java, Spring, Laravel을 중심으로 웹 개발에 몰두하고 있어요.
+</p>
+<p align="center">
+  <a href="https://www.notion.so/yourportfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"></a>
+</p>
 
 <h2 align="center">:books: Skills</h2>
 <div align="center">
